@@ -836,9 +836,7 @@ body {
 }
 
 .span-box {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+    display: inline-block;    
 }
 
 span {}
