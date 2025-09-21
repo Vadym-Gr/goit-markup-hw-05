@@ -825,6 +825,9 @@ body {
 }
 
 .modal-check-box {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     height: 16px;
     width: 16px;
     border-radius: 2px;
@@ -836,12 +839,10 @@ body {
 }
 
 .span-box {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
 }
-
-span {}
 
 .modal-form-btn {
     cursor: pointer;
